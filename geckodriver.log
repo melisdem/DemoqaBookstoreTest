@@ -1,0 +1,184 @@
+1685560253695	geckodriver	INFO	Listening on 127.0.0.1:44629
+1685560253736	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletKCaqK"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1685560254297	Marionette	INFO	Marionette enabled
+1685560254301	Marionette	INFO	Listening on port 46245
+Read port: 46245
+WebDriver BiDi listening on ws://127.0.0.1:46057
+1685560254405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletKCaqK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46057/devtools/browser/41fe2707-2b6d-4bdb-8f7d-bdff9a5fe8f9
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 6029 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560262856	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 4114 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560273904	Marionette	INFO	Stopped listening on port 46245
+1685560274675	geckodriver	INFO	Listening on 127.0.0.1:43057
+1685560275242	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJb1eLH"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1685560275819	Marionette	INFO	Marionette enabled
+1685560275823	Marionette	INFO	Listening on port 37569
+Read port: 37569
+WebDriver BiDi listening on ws://127.0.0.1:50053
+1685560275926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJb1eLH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50053/devtools/browser/1d999d91-6b0d-44e2-b6df-7ec036b2d7c8
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 4926 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560284759	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 4221 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560299274	Marionette	INFO	Stopped listening on port 37569
+1685560370563	geckodriver	INFO	Listening on 127.0.0.1:55357
+1685560370609	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "60559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4Q1Gdg"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1685560371172	Marionette	INFO	Marionette enabled
+1685560371175	Marionette	INFO	Listening on port 42129
+Read port: 42129
+WebDriver BiDi listening on ws://127.0.0.1:60559
+1685560371279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4Q1Gdg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60559/devtools/browser/752551f5-e5dd-414d-acac-b99cb6ff4402
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 5668 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560379966	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 2508 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560390886	Marionette	INFO	Stopped listening on port 42129
+1685560391729	geckodriver	INFO	Listening on 127.0.0.1:51405
+1685560392298	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelOfcpp"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1685560392846	Marionette	INFO	Marionette enabled
+1685560392850	Marionette	INFO	Listening on port 38643
+Read port: 38643
+WebDriver BiDi listening on ws://127.0.0.1:53185
+1685560392955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelOfcpp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53185/devtools/browser/d66bb847-e80e-4218-aa8e-f8b75087e9f4
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 318 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560402508	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 1428 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560417403	Marionette	INFO	Stopped listening on port 38643
+1685560564518	geckodriver	INFO	Listening on 127.0.0.1:38827
+1685560564561	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3C7T1H"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1685560565134	Marionette	INFO	Marionette enabled
+1685560565138	Marionette	INFO	Listening on port 45057
+Read port: 45057
+WebDriver BiDi listening on ws://127.0.0.1:57269
+1685560565241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3C7T1H/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57269/devtools/browser/eddca9df-d0e8-4073-9b70-386679370b05
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 5202 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560575136	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 6978 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560586171	Marionette	INFO	Stopped listening on port 45057
+1685560586869	geckodriver	INFO	Listening on 127.0.0.1:54269
+1685560587441	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileM1pUhs"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1685560588008	Marionette	INFO	Marionette enabled
+1685560588012	Marionette	INFO	Listening on port 36675
+Read port: 36675
+WebDriver BiDi listening on ws://127.0.0.1:42175
+1685560588117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileM1pUhs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42175/devtools/browser/fc2cab6a-fb65-4e05-ab26-26670faddca4
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 3371 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560598218	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 4937 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560613571	Marionette	INFO	Stopped listening on port 36675
+1685560701473	geckodriver	INFO	Listening on 127.0.0.1:56237
+1685560701515	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewnpStR"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1685560702094	Marionette	INFO	Marionette enabled
+1685560702098	Marionette	INFO	Listening on port 37767
+Read port: 37767
+WebDriver BiDi listening on ws://127.0.0.1:42795
+1685560702234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewnpStR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42795/devtools/browser/9cf832bd-a867-439c-b7b6-92455c36dcf6
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 1549 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560710843	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 7345 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560721793	Marionette	INFO	Stopped listening on port 37767
+1685560722619	geckodriver	INFO	Listening on 127.0.0.1:34443
+1685560723173	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePSH9eM"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1685560723763	Marionette	INFO	Marionette enabled
+1685560723767	Marionette	INFO	Listening on port 36771
+Read port: 36771
+WebDriver BiDi listening on ws://127.0.0.1:59179
+1685560723871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePSH9eM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59179/devtools/browser/cdc0dea5-a73f-4772-ad00-826bd21b5ba3
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 5055 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560733925	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2498:11
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 402: TypeError: g(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WucCaKvgDQ9fmljOI_WvgP1fjZ6LWmR4VZAfUyHL0jo.js line 2 > eval line 7638 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685560748442	Marionette	INFO	Stopped listening on port 36771

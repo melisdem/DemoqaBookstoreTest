@@ -1,0 +1,13 @@
+Bookstore page click login
+Logging in
+Logged in and can see the books
+clicked the book
+book added, going to cart
+accepted
+nav bar clicked
+in the cart, removing book
+confirm delete
+check remove
+Git Pocket Guide False
+Learning JavaScript Design Patterns False
+logging out

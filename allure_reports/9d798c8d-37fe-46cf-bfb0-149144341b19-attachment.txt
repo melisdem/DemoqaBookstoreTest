@@ -1,0 +1,11 @@
+Logging in
+Logged in and can see the books
+clicked the book
+book added, going to cart
+accepted
+nav bar clicked
+in the cart, checking book added or not
+Git Pocket Guide False
+Learning JavaScript Design Patterns False
+You Don't Know JS False
+logging out
